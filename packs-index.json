@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "shenshen",
+      "name": "咲恋 · 完整素材包",
+      "version": "1",
+      "filename": "shenshen-1.zip",
+      "size": 132036744,
+      "sha256": "c6d17c49e57cdc372d99dbd0f0289f25350382471118e30135c03b4f851305ef",
+      "character": "shenshen",
+      "urls": [
+        "https://github.com/MerZlin/Animations/releases/download/packs-v1/shenshen-1.zip"
+      ],
+      "links": {
+        "github": "https://github.com/MerZlin/Animations/releases/tag/packs-v1",
+        "quark": "https://pan.quark.cn/s/68fc681ae486"
+      },
+      "notes": ""
+    }
+  ]
+}
