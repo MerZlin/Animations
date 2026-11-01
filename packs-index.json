@@ -22,43 +22,64 @@
           "filename": "shenshen-1.zip.001",
           "size": 18874368,
           "sha256": "502f1fc0addf02c73d2540db0004df551abe7c8ff087eb71c4be7a925204af5e",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.001",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.001"
+          ]
         },
         {
           "filename": "shenshen-1.zip.002",
           "size": 18874368,
           "sha256": "8b6bd0117fb90519b99db33b3a36933149d03d04bf878485f2128862c118cec5",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.002",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.002"
+          ]
         },
         {
           "filename": "shenshen-1.zip.003",
           "size": 18874368,
           "sha256": "89ecdadf2250e0bbd5ed71662aa9a60dbb944fbed66536a99ab4208735b3db8a",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.003",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.003"
+          ]
         },
         {
           "filename": "shenshen-1.zip.004",
           "size": 18874368,
           "sha256": "5b16d57c82c4c67b70c6f164de1945ce0a3c2e7b715d75b3b9a19c8b7ca13c29",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.004",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.004"
+          ]
         },
         {
           "filename": "shenshen-1.zip.005",
           "size": 18874368,
           "sha256": "50b6a52a91b83d35309e0adf723ec421d4ae6a4a74ed5774042cd57bf79fb1c6",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.005",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.005"
+          ]
         },
         {
           "filename": "shenshen-1.zip.006",
           "size": 18874368,
           "sha256": "096c420bd233ccb1fd94d0c7462c1a0f41eb0875d96706174d04a8464dc2c767",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.006",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.006"
+          ]
         },
         {
           "filename": "shenshen-1.zip.007",
           "size": 18790536,
           "sha256": "d6b191787515d9136c7cc960b02ecef367a6fcbe67119d8b9c26d850f9b3872f",
-          "urls": []
+          "urls": [
+            "https://fastly.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.007",
+            "https://gcore.jsdelivr.net/gh/MerZlin/Animations@packs-files-v1/packs/shenshen-1.zip.007"
+          ]
         }
       ],
       "prefer_parts": false
